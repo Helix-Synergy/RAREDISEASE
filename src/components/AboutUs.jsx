@@ -44,7 +44,7 @@ loading="lazy"
           ></Link>{" "}
         </p>
 <p>“Transforming Patient Care and Innovation Through Rare Disease & Orphan Drug Research”</p>
-        <Link to="/about-synbio">
+        <Link to="/about-raredisease">
           <button className="flex bg-one text-white px-6 md:px-8 py-2 my-4 rounded-full text-sm md:text-base">
             Know More
           </button>

@@ -283,7 +283,7 @@ Hematologic disorders
       <>
     Vaccines  {" "}
         <Link
-          to="/about-synbio"
+          to="/about-raredisease"
           className="hover:text-accent hover:decoration-accent
              transition-colors duration-300"
         >
