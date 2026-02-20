@@ -78,6 +78,7 @@ const Carousel = () => {
         <span style={{ fontSize: "1.5rem" }}>❮</span>
       </button>
       <button
+        aria-label="Button"
         onClick={goToNext}
         className="absolute top-1/2 right-2 transform -translate-y-1/2 bg-black/50 text-white rounded-full hover:bg-black"
         style={{
