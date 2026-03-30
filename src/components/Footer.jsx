@@ -30,7 +30,7 @@ const Footer = () => {
 
           />
           <br />
-        <p style={{}}>
+       <p style={{ marginRight: "15px" }}>
    “Innovating Solutions for Rare Diseases and Orphan Drugs” 
         </p>
        
@@ -98,7 +98,7 @@ const Footer = () => {
           <div className="flex flex-row gap-2 items-start justify-center md:justify-start px-4 md:px-0 text-sm sm:text-base">
             <MapPin size="30" />
             <p className="text-left">
-            Vancouver | Canada
+           1200 West 73rd Avenue #1100, Vancouver, British Columbia‎, Canada
             </p>
           </div>
         </div>

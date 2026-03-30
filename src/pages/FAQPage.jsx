@@ -10,22 +10,22 @@ const faqLinks = {
 
 export const faqData = [
   {
-    question: "What is RAREDISEASE-2026?",
+    question: "What is RAREDISEASE-2027?",
     answer:
-      "RAREDISEASE-2026, officially titled the “International Rare Disease & Orphan Drug Congress”, is a premier global conference organized by Helix Conferences. It brings together clinicians, researchers, biopharma leaders, regulators, patient advocacy groups, and innovators to advance research, drug development, diagnostics, and policy solutions for rare diseases and orphan conditions.",
+      "RAREDISEASE-2027, officially titled the “International Rare Disease & Orphan Drug Congress”, is a premier global conference organized by Helix Conferences. It brings together clinicians, researchers, biopharma leaders, regulators, patient advocacy groups, and innovators to advance research, drug development, diagnostics, and policy solutions for rare diseases and orphan conditions.",
   },
   {
-    question: "When and where will RAREDISEASE-2026 take place?",
+    question: "When and where will RAREDISEASE-2027 take place?",
     answer:
-      "RAREDISEASE-2026 will take place in 2026. The exact dates and venue will be announced soon.",
+      "RAREDISEASE-2027 will take place in 2027. The exact dates and venue will be announced soon.",
   },
   {
-    question: "What are the highlights of RAREDISEASE-2026?",
+    question: "What are the highlights of RAREDISEASE-2027?",
     answer:
       "Keynote addresses by global experts, clinical research presentations, orphan drug development insights, regulatory and policy discussions, patient-centered innovation forums, collaborative workshops, and high-impact networking opportunities.",
   },
   {
-    question: "What scientific and clinical tracks are featured at RAREDISEASE-2026?",
+    question: "What scientific and clinical tracks are featured at RAREDISEASE-2027?",
     answer: (
       <>
         You can explore the complete list of congress tracks here:{" "}
@@ -35,7 +35,7 @@ export const faqData = [
           rel="noopener noreferrer"
           className="text-blue-600 underline"
         >
-          RAREDISEASE-2026 Tracks
+          RAREDISEASE-2027 Tracks
         </a>
         .
       </>
@@ -55,7 +55,7 @@ export const faqData = [
     ),
   },
   {
-    question: "How can I submit an abstract or presentation proposal for RAREDISEASE-2026?",
+    question: "How can I submit an abstract or presentation proposal for RAREDISEASE-2027?",
     answer: (
       <>
         Abstract and presentation submissions can be made{" "}
@@ -87,14 +87,14 @@ export const faqData = [
       "Standard presentation slots are typically 15–20 minutes, including discussion time. Final presentation guidelines will be shared upon acceptance.",
   },
   {
-    question: "Who should attend RAREDISEASE-2026?",
+    question: "Who should attend RAREDISEASE-2027?",
     answer:
       "Clinicians, rare disease researchers, geneticists, biopharma professionals, orphan drug developers, regulatory experts, patient advocacy leaders, startups, investors, and healthcare policymakers from around the world.",
   },
   {
-    question: "How many participants are expected at RAREDISEASE-2026?",
+    question: "How many participants are expected at RAREDISEASE-2027?",
     answer:
-      "RAREDISEASE-2026 is expected to host 150+ international participants, including speakers, delegates, exhibitors, startups, and sponsors.",
+      "RAREDISEASE-2027 is expected to host 150+ international participants, including speakers, delegates, exhibitors, startups, and sponsors.",
   },
   {
     question: "Can I submit multiple abstracts or proposals?",

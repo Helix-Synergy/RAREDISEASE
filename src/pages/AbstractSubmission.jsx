@@ -312,7 +312,7 @@ const AbstractSubmission = () => {
         </button>
 
         <button className="bg-one ml-2 px-4 py-2 rounded">
-          <a href="" download className="text-white">
+          <a href="/sample_abstract.pdf" download className="text-white">
             Download Demo Abstract
           </a>
         </button>
