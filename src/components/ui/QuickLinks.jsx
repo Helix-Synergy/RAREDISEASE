@@ -26,7 +26,7 @@ const links = [
     id: 'brochure-download',
     icon: Download,
     label: 'Brochure download',
-    link: '/2027-RAREDISEASE.pdf'
+    link: '/brochure-download'
   },
   {
     id: 'event-schedule',
@@ -58,10 +58,9 @@ const QuickLinks = () => {
         // ✅ Only brochure uses <a>
         if (id === 'brochure-download') {
           return (
-            <a
+            <Link
               key={id}
-              href={href}
-              download
+              to={href}
               onMouseEnter={() => setHoveredId(id)}
               onMouseLeave={() => setHoveredId(null)}
               className={classes}
@@ -72,7 +71,7 @@ const QuickLinks = () => {
               <span className="ml-4 pr-4 text-sm font-medium text-one-800 whitespace-nowrap">
                 {label}
               </span>
-            </a>
+            </Link>
           );
         }
 
